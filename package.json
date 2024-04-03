@@ -129,5 +129,6 @@
     "presets": [
       "react-app"
     ]
-  }
+  },
+  "repository": "https://github.com/patchBig/react-source-debug-code.git"
 }
